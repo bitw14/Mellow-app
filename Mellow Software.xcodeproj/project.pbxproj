@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		F0AF24ED27F1FDF10033D84C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF24EC27F1FDF10033D84C /* AppDelegate.swift */; };
 		F0AF24EF27F1FDF10033D84C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF24EE27F1FDF10033D84C /* SceneDelegate.swift */; };
-		F0AF24F127F1FDF10033D84C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF24F027F1FDF10033D84C /* ViewController.swift */; };
 		F0AF24F427F1FDF10033D84C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0AF24F227F1FDF10033D84C /* Main.storyboard */; };
 		F0AF24F727F1FDF10033D84C /* Mellow_Software.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F0AF24F527F1FDF10033D84C /* Mellow_Software.xcdatamodeld */; };
 		F0AF24F927F1FDF20033D84C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0AF24F827F1FDF20033D84C /* Assets.xcassets */; };
@@ -17,6 +16,25 @@
 		F0AF250727F1FDF20033D84C /* Mellow_SoftwareTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF250627F1FDF20033D84C /* Mellow_SoftwareTests.swift */; };
 		F0AF251127F1FDF20033D84C /* Mellow_SoftwareUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF251027F1FDF20033D84C /* Mellow_SoftwareUITests.swift */; };
 		F0AF251327F1FDF20033D84C /* Mellow_SoftwareUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF251227F1FDF20033D84C /* Mellow_SoftwareUITestsLaunchTests.swift */; };
+		F0AF252D27F1FEC20033D84C /* Bees 4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F0AF252327F1FEC20033D84C /* Bees 4.m4a */; };
+		F0AF252E27F1FEC20033D84C /* Bees 1.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F0AF252427F1FEC20033D84C /* Bees 1.m4a */; };
+		F0AF252F27F1FEC20033D84C /* Bird wings flapping 3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F0AF252527F1FEC20033D84C /* Bird wings flapping 3.m4a */; };
+		F0AF253027F1FEC20033D84C /* Owl 9.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F0AF252627F1FEC20033D84C /* Owl 9.m4a */; };
+		F0AF253127F1FEC20033D84C /* Tree branches 10.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F0AF252727F1FEC20033D84C /* Tree branches 10.m4a */; };
+		F0AF253227F1FEC20033D84C /* Insects 4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F0AF252827F1FEC20033D84C /* Insects 4.m4a */; };
+		F0AF253327F1FEC20033D84C /* Woodpecker 4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F0AF252927F1FEC20033D84C /* Woodpecker 4.m4a */; };
+		F0AF253427F1FEC20033D84C /* Woodpecker 8.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F0AF252A27F1FEC20033D84C /* Woodpecker 8.m4a */; };
+		F0AF253527F1FEC20033D84C /* Owl 4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F0AF252B27F1FEC20033D84C /* Owl 4.m4a */; };
+		F0AF253627F1FEC20033D84C /* Dropping object 1.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F0AF252C27F1FEC20033D84C /* Dropping object 1.m4a */; };
+		F0AF253E27F1FF690033D84C /* AudioManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF253D27F1FF690033D84C /* AudioManager.swift */; };
+		F0AF253F27F1FF690033D84C /* AudioManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF253D27F1FF690033D84C /* AudioManager.swift */; };
+		F0AF254027F1FF690033D84C /* AudioManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF253D27F1FF690033D84C /* AudioManager.swift */; };
+		F0AF254227F205560033D84C /* AudioFiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF254127F205560033D84C /* AudioFiles.swift */; };
+		F0AF254327F205560033D84C /* AudioFiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF254127F205560033D84C /* AudioFiles.swift */; };
+		F0AF254427F205560033D84C /* AudioFiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF254127F205560033D84C /* AudioFiles.swift */; };
+		F0AF254627F207F10033D84C /* DemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF254527F207F10033D84C /* DemoViewController.swift */; };
+		F0AF254727F207F10033D84C /* DemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF254527F207F10033D84C /* DemoViewController.swift */; };
+		F0AF254827F207F10033D84C /* DemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AF254527F207F10033D84C /* DemoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +58,6 @@
 		F0AF24E927F1FDF10033D84C /* Mellow Software.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mellow Software.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0AF24EC27F1FDF10033D84C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F0AF24EE27F1FDF10033D84C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		F0AF24F027F1FDF10033D84C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F0AF24F327F1FDF10033D84C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F0AF24F627F1FDF10033D84C /* Mellow_Software.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Mellow_Software.xcdatamodel; sourceTree = "<group>"; };
 		F0AF24F827F1FDF20033D84C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -51,6 +68,19 @@
 		F0AF250C27F1FDF20033D84C /* Mellow SoftwareUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mellow SoftwareUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0AF251027F1FDF20033D84C /* Mellow_SoftwareUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mellow_SoftwareUITests.swift; sourceTree = "<group>"; };
 		F0AF251227F1FDF20033D84C /* Mellow_SoftwareUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mellow_SoftwareUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F0AF252327F1FEC20033D84C /* Bees 4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Bees 4.m4a"; sourceTree = "<group>"; };
+		F0AF252427F1FEC20033D84C /* Bees 1.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Bees 1.m4a"; sourceTree = "<group>"; };
+		F0AF252527F1FEC20033D84C /* Bird wings flapping 3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Bird wings flapping 3.m4a"; sourceTree = "<group>"; };
+		F0AF252627F1FEC20033D84C /* Owl 9.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Owl 9.m4a"; sourceTree = "<group>"; };
+		F0AF252727F1FEC20033D84C /* Tree branches 10.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tree branches 10.m4a"; sourceTree = "<group>"; };
+		F0AF252827F1FEC20033D84C /* Insects 4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Insects 4.m4a"; sourceTree = "<group>"; };
+		F0AF252927F1FEC20033D84C /* Woodpecker 4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Woodpecker 4.m4a"; sourceTree = "<group>"; };
+		F0AF252A27F1FEC20033D84C /* Woodpecker 8.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Woodpecker 8.m4a"; sourceTree = "<group>"; };
+		F0AF252B27F1FEC20033D84C /* Owl 4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Owl 4.m4a"; sourceTree = "<group>"; };
+		F0AF252C27F1FEC20033D84C /* Dropping object 1.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dropping object 1.m4a"; sourceTree = "<group>"; };
+		F0AF253D27F1FF690033D84C /* AudioManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioManager.swift; sourceTree = "<group>"; };
+		F0AF254127F205560033D84C /* AudioFiles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioFiles.swift; sourceTree = "<group>"; };
+		F0AF254527F207F10033D84C /* DemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,14 +131,11 @@
 		F0AF24EB27F1FDF10033D84C /* Mellow Software */ = {
 			isa = PBXGroup;
 			children = (
-				F0AF24EC27F1FDF10033D84C /* AppDelegate.swift */,
-				F0AF24EE27F1FDF10033D84C /* SceneDelegate.swift */,
-				F0AF24F027F1FDF10033D84C /* ViewController.swift */,
-				F0AF24F227F1FDF10033D84C /* Main.storyboard */,
-				F0AF24F827F1FDF20033D84C /* Assets.xcassets */,
-				F0AF24FA27F1FDF20033D84C /* LaunchScreen.storyboard */,
-				F0AF24FD27F1FDF20033D84C /* Info.plist */,
-				F0AF24F527F1FDF10033D84C /* Mellow_Software.xcdatamodeld */,
+				F0AF252027F1FE780033D84C /* Application */,
+				F0AF251F27F1FE6D0033D84C /* Configurations */,
+				F0AF252127F1FE8D0033D84C /* Resources */,
+				F0AF253727F1FF0F0033D84C /* Modules */,
+				F0AF253B27F1FF490033D84C /* Utilities */,
 			);
 			path = "Mellow Software";
 			sourceTree = "<group>";
@@ -128,6 +155,101 @@
 				F0AF251227F1FDF20033D84C /* Mellow_SoftwareUITestsLaunchTests.swift */,
 			);
 			path = "Mellow SoftwareUITests";
+			sourceTree = "<group>";
+		};
+		F0AF251F27F1FE6D0033D84C /* Configurations */ = {
+			isa = PBXGroup;
+			children = (
+				F0AF24FD27F1FDF20033D84C /* Info.plist */,
+				F0AF24F527F1FDF10033D84C /* Mellow_Software.xcdatamodeld */,
+			);
+			path = Configurations;
+			sourceTree = "<group>";
+		};
+		F0AF252027F1FE780033D84C /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				F0AF24FA27F1FDF20033D84C /* LaunchScreen.storyboard */,
+				F0AF24EC27F1FDF10033D84C /* AppDelegate.swift */,
+				F0AF24EE27F1FDF10033D84C /* SceneDelegate.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		F0AF252127F1FE8D0033D84C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F0AF252227F1FEA90033D84C /* Sounds */,
+				F0AF24F827F1FDF20033D84C /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		F0AF252227F1FEA90033D84C /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				F0AF252427F1FEC20033D84C /* Bees 1.m4a */,
+				F0AF252327F1FEC20033D84C /* Bees 4.m4a */,
+				F0AF252527F1FEC20033D84C /* Bird wings flapping 3.m4a */,
+				F0AF252C27F1FEC20033D84C /* Dropping object 1.m4a */,
+				F0AF252827F1FEC20033D84C /* Insects 4.m4a */,
+				F0AF252B27F1FEC20033D84C /* Owl 4.m4a */,
+				F0AF252627F1FEC20033D84C /* Owl 9.m4a */,
+				F0AF252727F1FEC20033D84C /* Tree branches 10.m4a */,
+				F0AF252927F1FEC20033D84C /* Woodpecker 4.m4a */,
+				F0AF252A27F1FEC20033D84C /* Woodpecker 8.m4a */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		F0AF253727F1FF0F0033D84C /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				F0AF253827F1FF260033D84C /* Demo */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		F0AF253827F1FF260033D84C /* Demo */ = {
+			isa = PBXGroup;
+			children = (
+				F0AF253A27F1FF400033D84C /* Controllers */,
+				F0AF253927F1FF310033D84C /* Views */,
+			);
+			path = Demo;
+			sourceTree = "<group>";
+		};
+		F0AF253927F1FF310033D84C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F0AF24F227F1FDF10033D84C /* Main.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F0AF253A27F1FF400033D84C /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				F0AF254527F207F10033D84C /* DemoViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		F0AF253B27F1FF490033D84C /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				F0AF253C27F1FF520033D84C /* Audio Processing */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		F0AF253C27F1FF520033D84C /* Audio Processing */ = {
+			isa = PBXGroup;
+			children = (
+				F0AF253D27F1FF690033D84C /* AudioManager.swift */,
+				F0AF254127F205560033D84C /* AudioFiles.swift */,
+			);
+			path = "Audio Processing";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,8 +357,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				F0AF24FC27F1FDF20033D84C /* LaunchScreen.storyboard in Resources */,
+				F0AF252D27F1FEC20033D84C /* Bees 4.m4a in Resources */,
+				F0AF253427F1FEC20033D84C /* Woodpecker 8.m4a in Resources */,
+				F0AF253227F1FEC20033D84C /* Insects 4.m4a in Resources */,
+				F0AF252F27F1FEC20033D84C /* Bird wings flapping 3.m4a in Resources */,
+				F0AF253127F1FEC20033D84C /* Tree branches 10.m4a in Resources */,
+				F0AF253027F1FEC20033D84C /* Owl 9.m4a in Resources */,
+				F0AF252E27F1FEC20033D84C /* Bees 1.m4a in Resources */,
+				F0AF253327F1FEC20033D84C /* Woodpecker 4.m4a in Resources */,
 				F0AF24F927F1FDF20033D84C /* Assets.xcassets in Resources */,
+				F0AF253627F1FEC20033D84C /* Dropping object 1.m4a in Resources */,
 				F0AF24F427F1FDF10033D84C /* Main.storyboard in Resources */,
+				F0AF253527F1FEC20033D84C /* Owl 4.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,9 +393,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F0AF24F127F1FDF10033D84C /* ViewController.swift in Sources */,
+				F0AF254227F205560033D84C /* AudioFiles.swift in Sources */,
 				F0AF24ED27F1FDF10033D84C /* AppDelegate.swift in Sources */,
 				F0AF24F727F1FDF10033D84C /* Mellow_Software.xcdatamodeld in Sources */,
+				F0AF254627F207F10033D84C /* DemoViewController.swift in Sources */,
+				F0AF253E27F1FF690033D84C /* AudioManager.swift in Sources */,
 				F0AF24EF27F1FDF10033D84C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,7 +406,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0AF253F27F1FF690033D84C /* AudioManager.swift in Sources */,
 				F0AF250727F1FDF20033D84C /* Mellow_SoftwareTests.swift in Sources */,
+				F0AF254327F205560033D84C /* AudioFiles.swift in Sources */,
+				F0AF254727F207F10033D84C /* DemoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,8 +417,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0AF254427F205560033D84C /* AudioFiles.swift in Sources */,
+				F0AF254027F1FF690033D84C /* AudioManager.swift in Sources */,
 				F0AF251127F1FDF20033D84C /* Mellow_SoftwareUITests.swift in Sources */,
 				F0AF251327F1FDF20033D84C /* Mellow_SoftwareUITestsLaunchTests.swift in Sources */,
+				F0AF254827F207F10033D84C /* DemoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -445,7 +585,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VH27VMC9Y5;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Mellow Software/Info.plist";
+				INFOPLIST_FILE = "Mellow Software/Configurations/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -456,7 +596,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "runtime.Mellow-Software";
+				PRODUCT_BUNDLE_IDENTIFIER = com.runtime.mellow.software;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -473,7 +613,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VH27VMC9Y5;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Mellow Software/Info.plist";
+				INFOPLIST_FILE = "Mellow Software/Configurations/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -484,7 +624,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "runtime.Mellow-Software";
+				PRODUCT_BUNDLE_IDENTIFIER = com.runtime.mellow.software;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
